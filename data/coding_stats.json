@@ -1,107 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 6,
-                "minutes": 20,
-                "total_seconds": 22833.149,
-                "digital": "6:20",
-                "decimal": "6.33",
-                "text": "6 hrs 20 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 1099,
-                "human_deletions": 893
-            },
-            "range": {
-                "start": "2026-03-23T17:00:00Z",
-                "end": "2026-03-24T16:59:59Z",
-                "date": "2026-03-24",
-                "text": "Tue Mar 24th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "node-with-cloudflare",
-                    "total_seconds": 13779.971,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 446,
-                    "human_deletions": 12,
-                    "color": null,
-                    "digital": "3:49:39",
-                    "decimal": "3.82",
-                    "text": "3 hrs 49 mins",
-                    "hours": 3,
-                    "minutes": 49,
-                    "seconds": 39,
-                    "percent": 60.35
-                },
-                {
-                    "name": "images-optimize-service",
-                    "total_seconds": 4995.383,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 650,
-                    "human_deletions": 847,
-                    "color": null,
-                    "digital": "1:23:15",
-                    "decimal": "1.38",
-                    "text": "1 hr 23 mins",
-                    "hours": 1,
-                    "minutes": 23,
-                    "seconds": 15,
-                    "percent": 21.88
-                },
-                {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 3302.364,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 3,
-                    "human_deletions": 34,
-                    "color": null,
-                    "digital": "0:55:02",
-                    "decimal": "0.92",
-                    "text": "55 mins",
-                    "hours": 0,
-                    "minutes": 55,
-                    "seconds": 2,
-                    "percent": 14.46
-                },
-                {
-                    "name": "standard-template",
-                    "total_seconds": 751.511,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:12:31",
-                    "decimal": "0.20",
-                    "text": "12 mins",
-                    "hours": 0,
-                    "minutes": 12,
-                    "seconds": 31,
-                    "percent": 3.29
-                },
-                {
-                    "name": "smarterp-api-erp",
-                    "total_seconds": 3.92,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:00:03",
-                    "decimal": "0.00",
-                    "text": "3 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 3,
-                    "percent": 0.02
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -289,6 +188,90 @@
                     "minutes": 0,
                     "seconds": 1,
                     "percent": 0.01
+                }
+            ],
+            "grand_total": {
+                "hours": 6,
+                "minutes": 20,
+                "total_seconds": 22833.149,
+                "digital": "6:20",
+                "decimal": "6.33",
+                "text": "6 hrs 20 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 1099,
+                "human_deletions": 893
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 22833.149,
+                    "digital": "6:20:33",
+                    "decimal": "6.33",
+                    "text": "6 hrs 20 mins",
+                    "hours": 6,
+                    "minutes": 20,
+                    "seconds": 33,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 22833.149,
+                    "digital": "6:20:33",
+                    "decimal": "6.33",
+                    "text": "6 hrs 20 mins",
+                    "hours": 6,
+                    "minutes": 20,
+                    "seconds": 33,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 21120.079,
+                    "digital": "5:52:00",
+                    "decimal": "5.87",
+                    "text": "5 hrs 52 mins",
+                    "hours": 5,
+                    "minutes": 52,
+                    "seconds": 0,
+                    "percent": 92.5
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 635.248,
+                    "digital": "0:10:35",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 35,
+                    "percent": 2.78
+                },
+                {
+                    "name": "Building",
+                    "total_seconds": 586.522,
+                    "digital": "0:09:46",
+                    "decimal": "0.15",
+                    "text": "9 mins",
+                    "hours": 0,
+                    "minutes": 9,
+                    "seconds": 46,
+                    "percent": 2.57
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 491.3,
+                    "digital": "0:08:11",
+                    "decimal": "0.13",
+                    "text": "8 mins",
+                    "hours": 0,
+                    "minutes": 8,
+                    "seconds": 11,
+                    "percent": 2.15
                 }
             ],
             "dependencies": [
@@ -1902,78 +1885,95 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 22833.149,
-                    "digital": "6:20:33",
-                    "decimal": "6.33",
-                    "text": "6 hrs 20 mins",
-                    "hours": 6,
-                    "minutes": 20,
-                    "seconds": 33,
-                    "percent": 100.0
+                    "name": "node-with-cloudflare",
+                    "total_seconds": 13779.971,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 446,
+                    "human_deletions": 12,
+                    "color": null,
+                    "digital": "3:49:39",
+                    "decimal": "3.82",
+                    "text": "3 hrs 49 mins",
+                    "hours": 3,
+                    "minutes": 49,
+                    "seconds": 39,
+                    "percent": 60.35
+                },
+                {
+                    "name": "images-optimize-service",
+                    "total_seconds": 4995.383,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 650,
+                    "human_deletions": 847,
+                    "color": null,
+                    "digital": "1:23:15",
+                    "decimal": "1.38",
+                    "text": "1 hr 23 mins",
+                    "hours": 1,
+                    "minutes": 23,
+                    "seconds": 15,
+                    "percent": 21.88
+                },
+                {
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 3302.364,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 3,
+                    "human_deletions": 34,
+                    "color": null,
+                    "digital": "0:55:02",
+                    "decimal": "0.92",
+                    "text": "55 mins",
+                    "hours": 0,
+                    "minutes": 55,
+                    "seconds": 2,
+                    "percent": 14.46
+                },
+                {
+                    "name": "standard-template",
+                    "total_seconds": 751.511,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:12:31",
+                    "decimal": "0.20",
+                    "text": "12 mins",
+                    "hours": 0,
+                    "minutes": 12,
+                    "seconds": 31,
+                    "percent": 3.29
+                },
+                {
+                    "name": "smarterp-api-erp",
+                    "total_seconds": 3.92,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:00:03",
+                    "decimal": "0.00",
+                    "text": "3 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "percent": 0.02
                 }
             ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 22833.149,
-                    "digital": "6:20:33",
-                    "decimal": "6.33",
-                    "text": "6 hrs 20 mins",
-                    "hours": 6,
-                    "minutes": 20,
-                    "seconds": 33,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 21120.079,
-                    "digital": "5:52:00",
-                    "decimal": "5.87",
-                    "text": "5 hrs 52 mins",
-                    "hours": 5,
-                    "minutes": 52,
-                    "seconds": 0,
-                    "percent": 92.5
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 635.248,
-                    "digital": "0:10:35",
-                    "decimal": "0.17",
-                    "text": "10 mins",
-                    "hours": 0,
-                    "minutes": 10,
-                    "seconds": 35,
-                    "percent": 2.78
-                },
-                {
-                    "name": "Building",
-                    "total_seconds": 586.522,
-                    "digital": "0:09:46",
-                    "decimal": "0.15",
-                    "text": "9 mins",
-                    "hours": 0,
-                    "minutes": 9,
-                    "seconds": 46,
-                    "percent": 2.57
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 491.3,
-                    "digital": "0:08:11",
-                    "decimal": "0.13",
-                    "text": "8 mins",
-                    "hours": 0,
-                    "minutes": 8,
-                    "seconds": 11,
-                    "percent": 2.15
-                }
-            ]
+            "range": {
+                "start": "2026-03-23T17:00:00Z",
+                "end": "2026-03-24T16:59:59Z",
+                "date": "2026-03-24",
+                "text": "Tue Mar 24th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-03-23T17:00:00Z",
