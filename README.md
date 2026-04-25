@@ -71,6 +71,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/cachewraith"><img src="https://avatars.githubusercontent.com/u/150505791?s=130&v=4" width="60" height="60" alt="cachewraith" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Dvurechensky"><img src="https://avatars.githubusercontent.com/u/46356631?s=130&v=4" width="60" height="60" alt="Dvurechensky" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/u/43516554?s=130&v=4" width="60" height="60" alt="standardgalactic" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/3oFiz4"><img src="https://avatars.githubusercontent.com/u/157283533?s=130&v=4" width="60" height="60" alt="3oFiz4" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
@@ -78,7 +79,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/RaksaOC"><img src="https://avatars.githubusercontent.com/u/123465277?s=130&v=4" width="60" height="60" alt="RaksaOC" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/HEUYUINE"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="HEUYUINE" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/ishandutta2007"><img src="https://avatars.githubusercontent.com/u/2527354?s=130&v=4" width="60" height="60" alt="ishandutta2007" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
