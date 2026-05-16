@@ -42,18 +42,22 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-██████████████████░░░░░░░ ⁝ 72.36% • TypeScript
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.07% • CSHTML
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.3% • JSON
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.06% • Markdown
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.77% • Other
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.23% • CSS
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.83% • Image (svg)
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.55% • Bash
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.48% • C#
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.21% • Git Config
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.11% • YAML
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • JavaScript
+███████████░░░░░░░░░░░░░░ ⁝ 43.46% • Markdown
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 12.75% • JSON
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.23% • CSHTML
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.82% • C#
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.76% • PHP
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.0% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.5% • Blade Template
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.92% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.67% • TSConfig
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.42% • Bash
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.93% • YAML
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.75% • JavaScript
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.7% • INI
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.69% • Git Config
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.29% • TOML
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.1% • CSS
 ```
 <!--END_SECTION:daily-->
 
@@ -76,7 +80,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/Angkor-Rhapsody"><img src="https://avatars.githubusercontent.com/u/77953604?s=130&v=4" width="60" height="60" alt="Angkor-Rhapsody" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/RaksaOC"><img src="https://avatars.githubusercontent.com/u/123465277?s=130&v=4" width="60" height="60" alt="RaksaOC" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/HEUYUINE"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="HEUYUINE" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+<a href="https://github.com/SEV7NSEAS"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="SEV7NSEAS" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
