@@ -1,6 +1,86 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 1,
+                "minutes": 50,
+                "total_seconds": 6637.268,
+                "digital": "1:50",
+                "decimal": "1.83",
+                "text": "1 hr 50 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 590,
+                "human_deletions": 15,
+                "ai_agent_line_changes": {},
+                "ai_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events": 0,
+                "ai_agent_costs": {},
+                "ai_agent_breakdown": [],
+                "ai_agent_total_cost": 0
+            },
+            "range": {
+                "start": "2026-05-21T17:00:00Z",
+                "end": "2026-05-22T16:59:59Z",
+                "date": "2026-05-22",
+                "text": "Fri May 22nd 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "erp-apps",
+                    "total_seconds": 6198.153,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 590,
+                    "human_deletions": 15,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "digital": "1:43:18",
+                    "decimal": "1.72",
+                    "text": "1 hr 43 mins",
+                    "hours": 1,
+                    "minutes": 43,
+                    "seconds": 18,
+                    "percent": 93.38
+                },
+                {
+                    "name": "accounting-system",
+                    "total_seconds": 439.115,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "digital": "0:07:19",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 19,
+                    "percent": 6.62
+                }
+            ],
             "languages": [
                 {
                     "name": "Markdown",
@@ -11,18 +91,18 @@
                     "hours": 1,
                     "minutes": 24,
                     "seconds": 35,
-                    "percent": 77.19
+                    "percent": 76.47
                 },
                 {
                     "name": "PHP",
-                    "total_seconds": 533.311,
-                    "digital": "0:08:53",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "total_seconds": 594.41,
+                    "digital": "0:09:54",
+                    "decimal": "0.15",
+                    "text": "9 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 53,
-                    "percent": 8.11
+                    "minutes": 9,
+                    "seconds": 54,
+                    "percent": 8.96
                 },
                 {
                     "name": "JSON",
@@ -33,7 +113,7 @@
                     "hours": 0,
                     "minutes": 8,
                     "seconds": 34,
-                    "percent": 7.82
+                    "percent": 7.75
                 },
                 {
                     "name": "Vue",
@@ -44,7 +124,7 @@
                     "hours": 0,
                     "minutes": 7,
                     "seconds": 19,
-                    "percent": 6.68
+                    "percent": 6.62
                 },
                 {
                     "name": "Other",
@@ -69,29 +149,213 @@
                     "percent": 0.06
                 }
             ],
-            "grand_total": {
-                "hours": 1,
-                "minutes": 49,
-                "total_seconds": 6576.169,
-                "digital": "1:49",
-                "decimal": "1.82",
-                "text": "1 hr 49 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 590,
-                "human_deletions": 15,
-                "ai_agent_line_changes": {},
-                "ai_input_tokens": 0,
-                "ai_output_tokens": 0,
-                "ai_prompt_length_avg": 0,
-                "ai_prompt_length_sum": 0,
-                "ai_prompt_events": 0,
-                "ai_agent_costs": {}
-            },
+            "dependencies": [
+                {
+                    "name": "nuxt",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "@pinia/nuxt",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "tailwindcss",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "@types/node",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "typescript",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "vue-router",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "primevue",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "vue",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "@tailwindcss/vite",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "npm",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "pinia",
+                    "total_seconds": 466.743,
+                    "digital": "0:07:46",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 46,
+                    "percent": 7.51
+                },
+                {
+                    "name": "Illuminate",
+                    "total_seconds": 449.534,
+                    "digital": "0:07:29",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 29,
+                    "percent": 7.23
+                },
+                {
+                    "name": "Modules",
+                    "total_seconds": 435.155,
+                    "digital": "0:07:15",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 15,
+                    "percent": 7.0
+                },
+                {
+                    "name": "HasDatabase",
+                    "total_seconds": 61.099,
+                    "digital": "0:01:01",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1,
+                    "percent": 0.98
+                },
+                {
+                    "name": "Stancl",
+                    "total_seconds": 61.099,
+                    "digital": "0:01:01",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1,
+                    "percent": 0.98
+                },
+                {
+                    "name": "HasDomains",
+                    "total_seconds": 61.099,
+                    "digital": "0:01:01",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1,
+                    "percent": 0.98
+                },
+                {
+                    "name": "BelongsToTenant",
+                    "total_seconds": 14.379,
+                    "digital": "0:00:14",
+                    "decimal": "0.00",
+                    "text": "14 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "percent": 0.23
+                }
+            ],
+            "machines": [
+                {
+                    "name": "DESKTOP-SU9UIER",
+                    "total_seconds": 6637.268,
+                    "machine_name_id": "c62ace2a-cde0-4669-83ef-6779976e1db1",
+                    "digital": "1:50:37",
+                    "decimal": "1.83",
+                    "text": "1 hr 50 mins",
+                    "hours": 1,
+                    "minutes": 50,
+                    "seconds": 37,
+                    "percent": 100.0
+                }
+            ],
             "editors": [
                 {
                     "name": "Antigravity",
-                    "total_seconds": 6576.169,
+                    "total_seconds": 6637.268,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 590,
@@ -105,25 +369,25 @@
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "1:49:36",
-                    "decimal": "1.82",
-                    "text": "1 hr 49 mins",
+                    "digital": "1:50:37",
+                    "decimal": "1.83",
+                    "text": "1 hr 50 mins",
                     "hours": 1,
-                    "minutes": 49,
-                    "seconds": 36,
+                    "minutes": 50,
+                    "seconds": 37,
                     "percent": 100.0
                 }
             ],
             "operating_systems": [
                 {
                     "name": "Windows",
-                    "total_seconds": 6576.169,
-                    "digital": "1:49:36",
-                    "decimal": "1.82",
-                    "text": "1 hr 49 mins",
+                    "total_seconds": 6637.268,
+                    "digital": "1:50:37",
+                    "decimal": "1.83",
+                    "text": "1 hr 50 mins",
                     "hours": 1,
-                    "minutes": 49,
-                    "seconds": 36,
+                    "minutes": 50,
+                    "seconds": 37,
                     "percent": 100.0
                 }
             ],
@@ -137,297 +401,37 @@
                     "hours": 1,
                     "minutes": 24,
                     "seconds": 35,
-                    "percent": 77.19
+                    "percent": 76.47
                 },
                 {
                     "name": "Coding",
-                    "total_seconds": 1500.342,
-                    "digital": "0:25:00",
-                    "decimal": "0.42",
-                    "text": "25 mins",
+                    "total_seconds": 1561.441,
+                    "digital": "0:26:01",
+                    "decimal": "0.43",
+                    "text": "26 mins",
                     "hours": 0,
-                    "minutes": 25,
-                    "seconds": 0,
-                    "percent": 22.81
+                    "minutes": 26,
+                    "seconds": 1,
+                    "percent": 23.53
                 }
-            ],
-            "dependencies": [
-                {
-                    "name": "@tailwindcss/vite",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "vue",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "vue-router",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "@pinia/nuxt",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "npm",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "primevue",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "pinia",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "nuxt",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "typescript",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "tailwindcss",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "@types/node",
-                    "total_seconds": 466.743,
-                    "digital": "0:07:46",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 46,
-                    "percent": 7.74
-                },
-                {
-                    "name": "Illuminate",
-                    "total_seconds": 449.534,
-                    "digital": "0:07:29",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 29,
-                    "percent": 7.45
-                },
-                {
-                    "name": "Modules",
-                    "total_seconds": 435.155,
-                    "digital": "0:07:15",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 15,
-                    "percent": 7.21
-                },
-                {
-                    "name": "BelongsToTenant",
-                    "total_seconds": 14.379,
-                    "digital": "0:00:14",
-                    "decimal": "0.00",
-                    "text": "14 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 14,
-                    "percent": 0.24
-                },
-                {
-                    "name": "HasDomains",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "Stancl",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "HasDatabase",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                }
-            ],
-            "machines": [
-                {
-                    "name": "DESKTOP-SU9UIER",
-                    "total_seconds": 6576.169,
-                    "machine_name_id": "c62ace2a-cde0-4669-83ef-6779976e1db1",
-                    "digital": "1:49:36",
-                    "decimal": "1.82",
-                    "text": "1 hr 49 mins",
-                    "hours": 1,
-                    "minutes": 49,
-                    "seconds": 36,
-                    "percent": 100.0
-                }
-            ],
-            "projects": [
-                {
-                    "name": "erp-apps",
-                    "total_seconds": 6137.054,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 590,
-                    "human_deletions": 15,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "1:42:17",
-                    "decimal": "1.70",
-                    "text": "1 hr 42 mins",
-                    "hours": 1,
-                    "minutes": 42,
-                    "seconds": 17,
-                    "percent": 93.32
-                },
-                {
-                    "name": "accounting-system",
-                    "total_seconds": 439.115,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "0:07:19",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 19,
-                    "percent": 6.68
-                }
-            ],
-            "range": {
-                "start": "2026-05-21T17:00:00Z",
-                "end": "2026-05-22T16:59:59Z",
-                "date": "2026-05-22",
-                "text": "Fri May 22nd 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            ]
         }
     ],
     "start": "2026-05-21T17:00:00Z",
     "end": "2026-05-22T16:59:59Z",
     "cumulative_total": {
-        "seconds": 6576.169,
-        "text": "1 hr 49 mins",
-        "digital": "1:49",
-        "decimal": "1.82"
+        "seconds": 6637.268,
+        "text": "1 hr 50 mins",
+        "digital": "1:50",
+        "decimal": "1.83"
     },
     "daily_average": {
         "holidays": 0,
         "days_minus_holidays": 1,
         "days_including_holidays": 1,
-        "seconds": 6567,
-        "seconds_including_other_language": 6576,
-        "text": "1 hr 49 mins",
-        "text_including_other_language": "1 hr 49 mins"
+        "seconds": 6628,
+        "seconds_including_other_language": 6637,
+        "text": "1 hr 50 mins",
+        "text_including_other_language": "1 hr 50 mins"
     }
 }
