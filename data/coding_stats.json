@@ -1,6 +1,101 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 3,
+                "minutes": 53,
+                "total_seconds": 14036.546,
+                "digital": "3:53",
+                "decimal": "3.88",
+                "text": "3 hrs 53 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 402,
+                "human_deletions": 41,
+                "ai_agent_line_changes": {},
+                "ai_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events_total": 0,
+                "ai_sessions": 0,
+                "ai_agent_costs": {},
+                "ai_agent_breakdown": [],
+                "ai_agent_total_cost": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_events_avg_per_session": 0,
+                "ai_prompt_events_median_per_session": 0,
+                "ai_prompt_length_avg_per_session": 0,
+                "ai_prompt_length_median_per_session": 0
+            },
+            "range": {
+                "start": "2026-05-26T17:00:00Z",
+                "end": "2026-05-27T16:59:59Z",
+                "date": "2026-05-27",
+                "text": "Wed May 27th 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "erp-apps",
+                    "total_seconds": 14032.93,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 402,
+                    "human_deletions": 41,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "3:53:52",
+                    "decimal": "3.88",
+                    "text": "3 hrs 53 mins",
+                    "hours": 3,
+                    "minutes": 53,
+                    "seconds": 52,
+                    "percent": 99.97
+                },
+                {
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 3.616,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:00:03",
+                    "decimal": "0.00",
+                    "text": "3 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "percent": 0.03
+                }
+            ],
             "languages": [
                 {
                     "name": "Vue",
@@ -102,90 +197,6 @@
                     "percent": 0.0
                 }
             ],
-            "grand_total": {
-                "hours": 3,
-                "minutes": 53,
-                "total_seconds": 14036.546,
-                "digital": "3:53",
-                "decimal": "3.88",
-                "text": "3 hrs 53 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 402,
-                "human_deletions": 41,
-                "ai_agent_line_changes": {},
-                "ai_input_tokens": 0,
-                "ai_output_tokens": 0,
-                "ai_prompt_length_avg": 0,
-                "ai_prompt_length_sum": 0,
-                "ai_prompt_events": 0,
-                "ai_agent_costs": {},
-                "ai_agent_breakdown": [],
-                "ai_agent_total_cost": 0
-            },
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 14036.546,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 402,
-                    "human_deletions": 41,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "3:53:56",
-                    "decimal": "3.88",
-                    "text": "3 hrs 53 mins",
-                    "hours": 3,
-                    "minutes": 53,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 14036.546,
-                    "digital": "3:53:56",
-                    "decimal": "3.88",
-                    "text": "3 hrs 53 mins",
-                    "hours": 3,
-                    "minutes": 53,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 12617.752,
-                    "digital": "3:30:17",
-                    "decimal": "3.50",
-                    "text": "3 hrs 30 mins",
-                    "hours": 3,
-                    "minutes": 30,
-                    "seconds": 17,
-                    "percent": 89.89
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 1418.794,
-                    "digital": "0:23:38",
-                    "decimal": "0.38",
-                    "text": "23 mins",
-                    "hours": 0,
-                    "minutes": 23,
-                    "seconds": 38,
-                    "percent": 10.11
-                }
-            ],
             "dependencies": [
                 {
                     "name": "Illuminate",
@@ -221,40 +232,7 @@
                     "percent": 3.47
                 },
                 {
-                    "name": "primevue",
-                    "total_seconds": 370.615,
-                    "digital": "0:06:10",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 10,
-                    "percent": 3.47
-                },
-                {
                     "name": "npm",
-                    "total_seconds": 370.615,
-                    "digital": "0:06:10",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 10,
-                    "percent": 3.47
-                },
-                {
-                    "name": "@pinia/nuxt",
-                    "total_seconds": 370.615,
-                    "digital": "0:06:10",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 10,
-                    "percent": 3.47
-                },
-                {
-                    "name": "typescript",
                     "total_seconds": 370.615,
                     "digital": "0:06:10",
                     "decimal": "0.10",
@@ -276,7 +254,40 @@
                     "percent": 3.47
                 },
                 {
-                    "name": "@tailwindcss/vite",
+                    "name": "primevue",
+                    "total_seconds": 370.615,
+                    "digital": "0:06:10",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 10,
+                    "percent": 3.47
+                },
+                {
+                    "name": "typescript",
+                    "total_seconds": 370.615,
+                    "digital": "0:06:10",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 10,
+                    "percent": 3.47
+                },
+                {
+                    "name": "@pinia/nuxt",
+                    "total_seconds": 370.615,
+                    "digital": "0:06:10",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 10,
+                    "percent": 3.47
+                },
+                {
+                    "name": "@types/node",
                     "total_seconds": 370.615,
                     "digital": "0:06:10",
                     "decimal": "0.10",
@@ -298,17 +309,6 @@
                     "percent": 3.47
                 },
                 {
-                    "name": "tailwindcss",
-                    "total_seconds": 370.615,
-                    "digital": "0:06:10",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 10,
-                    "percent": 3.47
-                },
-                {
                     "name": "pinia",
                     "total_seconds": 370.615,
                     "digital": "0:06:10",
@@ -320,7 +320,18 @@
                     "percent": 3.47
                 },
                 {
-                    "name": "@types/node",
+                    "name": "tailwindcss",
+                    "total_seconds": 370.615,
+                    "digital": "0:06:10",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 10,
+                    "percent": 3.47
+                },
+                {
+                    "name": "@tailwindcss/vite",
                     "total_seconds": 370.615,
                     "digital": "0:06:10",
                     "decimal": "0.10",
@@ -397,7 +408,18 @@
                     "percent": 0.33
                 },
                 {
-                    "name": "JsonSerializable",
+                    "name": "JsonException",
+                    "total_seconds": 17.821,
+                    "digital": "0:00:17",
+                    "decimal": "0.00",
+                    "text": "17 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "percent": 0.17
+                },
+                {
+                    "name": "HasCollection",
                     "total_seconds": 17.821,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -419,7 +441,7 @@
                     "percent": 0.17
                 },
                 {
-                    "name": "JsonException",
+                    "name": "Concerns",
                     "total_seconds": 17.821,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -430,7 +452,7 @@
                     "percent": 0.17
                 },
                 {
-                    "name": "HasCollection",
+                    "name": "JsonSerializable",
                     "total_seconds": 17.821,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -474,17 +496,6 @@
                     "percent": 0.17
                 },
                 {
-                    "name": "Concerns",
-                    "total_seconds": 17.821,
-                    "digital": "0:00:17",
-                    "decimal": "0.00",
-                    "text": "17 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 17,
-                    "percent": 0.17
-                },
-                {
                     "name": "Carbon",
                     "total_seconds": 10.104,
                     "digital": "0:00:10",
@@ -510,10 +521,10 @@
                     "percent": 100.0
                 }
             ],
-            "projects": [
+            "editors": [
                 {
-                    "name": "erp-apps",
-                    "total_seconds": 14032.93,
+                    "name": "VS Code",
+                    "total_seconds": 14036.546,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 402,
@@ -522,53 +533,62 @@
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "color": null,
+                    "ai_prompt_events_total": 0,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "3:53:52",
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "3:53:56",
                     "decimal": "3.88",
                     "text": "3 hrs 53 mins",
                     "hours": 3,
                     "minutes": 53,
-                    "seconds": 52,
-                    "percent": 99.97
-                },
-                {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 3.616,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "color": null,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "0:00:03",
-                    "decimal": "0.00",
-                    "text": "3 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 3,
-                    "percent": 0.03
+                    "seconds": 56,
+                    "percent": 100.0
                 }
             ],
-            "range": {
-                "start": "2026-05-26T17:00:00Z",
-                "end": "2026-05-27T16:59:59Z",
-                "date": "2026-05-27",
-                "text": "Wed May 27th 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 14036.546,
+                    "digital": "3:53:56",
+                    "decimal": "3.88",
+                    "text": "3 hrs 53 mins",
+                    "hours": 3,
+                    "minutes": 53,
+                    "seconds": 56,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 12617.752,
+                    "digital": "3:30:17",
+                    "decimal": "3.50",
+                    "text": "3 hrs 30 mins",
+                    "hours": 3,
+                    "minutes": 30,
+                    "seconds": 17,
+                    "percent": 89.89
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 1418.794,
+                    "digital": "0:23:38",
+                    "decimal": "0.38",
+                    "text": "23 mins",
+                    "hours": 0,
+                    "minutes": 23,
+                    "seconds": 38,
+                    "percent": 10.11
+                }
+            ]
         }
     ],
     "start": "2026-05-26T17:00:00Z",
