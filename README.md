@@ -42,9 +42,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-████████████████░░░░░░░░░ ⁝ 63.0% • Vue
-██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.68% • Markdown
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.32% • PHP
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • CSS
 ```
 <!--END_SECTION:daily-->
 
@@ -60,6 +58,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/duncuo164"><img src="https://avatars.githubusercontent.com/u/138113676?s=130&v=4" width="60" height="60" alt="duncuo164" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/cachewraith"><img src="https://avatars.githubusercontent.com/u/150505791?s=130&v=4" width="60" height="60" alt="cachewraith" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Dvurechensky"><img src="https://avatars.githubusercontent.com/u/46356631?s=130&v=4" width="60" height="60" alt="Dvurechensky" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/u/43516554?s=130&v=4" width="60" height="60" alt="standardgalactic" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
@@ -67,7 +66,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/Angkor-Rhapsody"><img src="https://avatars.githubusercontent.com/u/77953604?s=130&v=4" width="60" height="60" alt="Angkor-Rhapsody" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/RaksaOC"><img src="https://avatars.githubusercontent.com/u/123465277?s=130&v=4" width="60" height="60" alt="RaksaOC" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/SEV7NSEAS"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="SEV7NSEAS" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
