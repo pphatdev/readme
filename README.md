@@ -67,6 +67,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/Chhoranndorn"><img src="https://avatars.githubusercontent.com/u/172014781?s=130&v=4" width="60" height="60" alt="Chhoranndorn" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/RongMarin99"><img src="https://avatars.githubusercontent.com/u/105185714?s=130&v=4" width="60" height="60" alt="RongMarin99" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/chrisipanaque"><img src="https://avatars.githubusercontent.com/u/226408503?s=130&v=4" width="60" height="60" alt="chrisipanaque" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/ahmadrizal-baihaqi"><img src="https://avatars.githubusercontent.com/u/180535350?s=130&v=4" width="60" height="60" alt="ahmadrizal-baihaqi" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
@@ -74,7 +75,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/cachewraith"><img src="https://avatars.githubusercontent.com/u/150505791?s=130&v=4" width="60" height="60" alt="cachewraith" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Dvurechensky"><img src="https://avatars.githubusercontent.com/u/46356631?s=130&v=4" width="60" height="60" alt="Dvurechensky" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/u/43516554?s=130&v=4" width="60" height="60" alt="standardgalactic" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/Angkor-Rhapsody"><img src="https://avatars.githubusercontent.com/u/77953604?s=130&v=4" width="60" height="60" alt="Angkor-Rhapsody" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
